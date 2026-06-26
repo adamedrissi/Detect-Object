@@ -1,4 +1,4 @@
-MAIN OBJECTIVE OF THE ASSESSMENT 
+MAIN OBJECTIVE OF THE ASSESSMENT
 This assignment is used to assess your abilities to implement a computer program as a solution to a problem, 
 and your ability to communicate your solution.  
  
@@ -6,7 +6,7 @@ This assignment contributes 100% to the grade in CS1810 Software Implementation.
 member of the teaching team through a ‘VIVA’ event. In the VIVA, you will demonstrate and explain the 
 computer program that you have implemented. 
  
-DESCRIPTION OF THE ASSESSMENT 
+DESCRIPTION OF THE ASSESSMENT
 Each member of the group is expected to implement a Java program for one of the Swiftbot robot tasks 
 described below. You are also asked to design an algorithm for the same task as part of Assignment 2. There 
 are 9 tasks. Each team member should choose only one and no two members can choose the same task. For 
