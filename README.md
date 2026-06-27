@@ -23,15 +23,15 @@ awarded for additional functionalities that were come up with. The additional fu
 useful and ingenuous and showcased software development skills. The additional functionalities shouldn't 
 have replaced or conflicted with the required functionalities of the task descriptions.
 
-Task 1 – Zigzag 
-Task 2 – Traffic Light 
-Task 3 – Navigate 
-Task 4 – Master Mind 
-Task 5 – Detect Object 
-Task 6 – Search for Light 
-Task 7 – Dance 
-Task 8 – Draw Shape 
-Task 9 – Tunnel Vision (for groups with 9 members) 
+Task 1 – Zigzag, 
+Task 2 – Traffic Light, 
+Task 3 – Navigate, 
+Task 4 – Master Mind, 
+Task 5 – Detect Object, 
+Task 6 – Search for Light, 
+Task 7 – Dance, 
+Task 8 – Draw Shape, 
+Task 9 – Tunnel Vision (for groups with 9 members). 
 
 Selected Task: TASK 5 – DETECT OBJECT 
  
